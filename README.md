@@ -4,7 +4,7 @@ A responsive portfolio website showcasing my projects, technical skills, certifi
 
 ## Live Demo
 
-[Portfolio Website](YOUR_NETLIFY_URL)
+[Portfolio Website](https://serene-gelato-748b3b.netlify.app/)
 
 ## Features
 
