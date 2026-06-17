@@ -27,7 +27,7 @@ A responsive portfolio website showcasing my projects, technical skills, certifi
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/portfolio-website.git
+git clone https://github.com/Nitish204/portfolio-website
 ```
 
 Navigate to the project directory:
